@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on **projects that involve machine learning or building innovative web applications.**  
 - 📫 You can reach me at **phonk4beatz@gmail.com**  
 - 😄 Pronouns: **he/him.**  
-- ⚡ Fun fact: **I once coded a simple game in a weekend and it became a hit among my friends!**  
+- ⚡ Fun fact: **I once coded a simple game in a weekend and it became a hit to my friends!**  
