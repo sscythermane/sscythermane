@@ -27,10 +27,10 @@
 <div align="center">
   <h3>Statistics</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Riz-ve&theme=github_dark&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=enqryptedd&theme=github_dark&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Riz-ve&theme=github_dark&show_icons=false&card_width=350" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enqryptedd&theme=github_dark&show_icons=false&card_width=350" />
   </a>
 </div>
 <div align="center">
