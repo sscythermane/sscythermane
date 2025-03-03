@@ -37,4 +37,4 @@
   <h3>Contact</h3>
   <a href="https://discord.com/users/1183768582505640010"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
 </div>
-<img height=15 align="right" src="https://komarev.com/ghpvc/?username=Riz-ve&abbreviated=true" />
+<img height=15 align="right" src="https://komarev.com/ghpvc/?username=enqryptedd&abbreviated=true" />
