@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dfed3828-b585-4f92-9588-4e9c06582110)<h1 align="center">enqryptedd</h1>
+<h1 align="center">enqryptedd</h1>
 <div align="center">
   <h5>Self Taught Programmer</h5>
   <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
