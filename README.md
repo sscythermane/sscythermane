@@ -1,4 +1,4 @@
-<h1 align="center">enqryptedd</h1>
+![image](https://github.com/user-attachments/assets/dfed3828-b585-4f92-9588-4e9c06582110)<h1 align="center">enqryptedd</h1>
 <div align="center">
   <h5>Self Taught Programmer</h5>
   <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
@@ -10,6 +10,8 @@
   <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/Ruby?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/PHP?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
