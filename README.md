@@ -1,4 +1,4 @@
-<h1 align="center">enqryptedd</h1>
+<h1 align="center">_ꜱᴄʏᴛʜᴇʀᴍᴀɴᴇ</h1>
 <div align="center">
   <h5>Self Taught Programmer</h5>
   <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
