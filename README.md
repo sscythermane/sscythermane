@@ -52,7 +52,7 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games.
 
 ## Discord
 <a href="https://discord.com/users/1401607872017858775"  align="left">
-    <img src="[https://lanyard.cnrad.dev/api/218779355461976064?theme=dark](https://lanyard.cnrad.dev/api/1401607872017858775?theme=dark)">
+    <img src="[https://lanyard.cnrad.dev/api/1401607872017858775?theme=dark](https://lanyard.cnrad.dev/api/1401607872017858775?theme=dark)">
   </a>
 
 ## My stats:
