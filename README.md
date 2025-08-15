@@ -48,12 +48,6 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   and more...
 </p>
-
-<img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
-<br/>
-
-<br/>
-<img src="https://i.imgur.com/JgHTZVd.gif" width="500" align="center" /><br/>
 </div>
 
 ## Discord
