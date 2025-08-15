@@ -1,41 +1,80 @@
-<h1 align="center">_ꜱᴄʏᴛʜᴇʀᴍᴀɴᴇ</h1>
-<div align="center">
-  <h5>Self Taught Programmer</h5>
-  <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
+#
+<div>
+<h2>
+    Hi, I'm ꜱᴄʏᴛʜᴇʀᴍᴀɴᴇ!
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
+
+### A little more about me...  
+
+```javascript
+const ꜱᴄʏᴛʜᴇʀᴍᴀɴᴇ = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, Kotlin, Dart, Lua, Etc],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker, Android-Studio, Flutter, Figma]
+}
+```
+
+I'm a Software Engineer | Discord.JS, Android, iOS, Web developer. <br />
+I love learning new skills, new languages and new tools. <br />
+I also enjoy playing Open-World, FPS, Adventure, Platformer, Games.
+
+
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  and more...
+</p>
+
+<img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
+<br/>
+
+<br/>
+<img src="https://i.imgur.com/JgHTZVd.gif" width="500" align="center" /><br/>
 </div>
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://svgl-badge.vercel.app/api/Language/C?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Ruby?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/PHP?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
-</div>
-<div align="center">
-  <h3>Tools</h3>
-  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Design/Figma?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
-</div>
-<div align="center">
-  <h3>Statistics</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sscythermane&theme=github_dark&show_icons=true" />
+
+## Discord
+<a href="https://discord.com/users/1401607872017858775"  align="left">
+    <img src="[https://lanyard.cnrad.dev/api/218779355461976064?theme=dark](https://lanyard.cnrad.dev/api/1401607872017858775?theme=dark)">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sscythermane&theme=github_dark&show_icons=false&card_width=350" />
+
+## My stats:
+
+<p>
+  <a href="/"  align="left">
+    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=sscythermane&theme=dark&show_icons=true"/>
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=sscythermane" alt="views" />
   </a>
-</div>
-<div align="center">
-  <h3>Contact</h3>
-  <a href="https://discord.com/users/1183768582505640010"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
-</div>
-<img height=15 align="right" src="https://komarev.com/ghpvc/?username=sscythermane&abbreviated=true" />
+</p>
+
+## Commits
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+## Thanks for reading!
